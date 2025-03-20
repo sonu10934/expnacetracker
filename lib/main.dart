@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
           primary: Color(0xff00b2e7),
           secondary: Color(0xffe064e4),
           tertiary: Color(0xffff8d6c),
+          outline: Colors.grey.shade400,
         ),
       ),
 
